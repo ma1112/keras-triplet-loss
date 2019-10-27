@@ -4,7 +4,7 @@ I used the triplet loss / triplet minig related code from omoindrot's [tensorflo
 
 You can see a minimalistic example of online triplet mining with keras in the uploaded [`notebook`](keras_triplet_loss.ipynb).
 
-For all further information about what triplet loss is, and what it is good for, I recommend reading omoindrot's [blog post] [blog] and studying his GitHub [repository][tensorflow-triplet-loss].
+For all further information about what triplet loss is, and what it is good for, I recommend reading omoindrot's [blog post][blog] and studying his GitHub [repository][tensorflow-triplet-loss].
 
 ## Requirements
 
